@@ -1,9 +1,11 @@
 import express, { json } from "express";
 import dotenv from "dotenv";
-dotenv.config();
+dotenv.config({path: "./vars/.env"});
+import connectDB from './config/db.js'
 import products from "./data/products.js";
 // const PORT = 5000;
 const port = process.env.PORT;
+connectDB() // connect to the database
 const app = express();
 app.get("/", (req, res) => {
   res.send("API is Running...");

@@ -1,6 +1,6 @@
 const products = [
     {
-        _id: '1',
+        // _id: '1',
         name:'Airpods Wireless Bluetooth Headphones',
         image: '/images/airpods.jpg',
         description: 'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAc audio offrs immersive listenting experence built-in microphone allows you to take calls while working.',
@@ -13,7 +13,7 @@ const products = [
 
     },
     {
-        _id: '2',
+        // _id: '2',
         name:'Iphone 11 Pro Max',
         image: '/images/phone.jpg',
         description: 'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAc audio offrs immersive listenting experence built-in microphone allows you to take calls while working.',
@@ -25,7 +25,7 @@ const products = [
         numReviews : 17,
 
     },{
-        _id: '3',
+        // _id: '3',
         name:'Mouse',
         image: '/images/mouse.jpg',
         description: 'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAc audio offrs immersive listenting experence built-in microphone allows you to take calls while working.',
@@ -37,7 +37,7 @@ const products = [
         numReviews : 10,
 
     },{
-        _id: '4',
+        // _id: '4',
         name:'Canon 6D Mark IV',
         image: '/images/camera.jpg',
         description: 'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAc audio offrs immersive listenting experence built-in microphone allows you to take calls while working.',
@@ -49,7 +49,7 @@ const products = [
         numReviews : 22,
 
     },{
-        _id: '5',
+        // _id: '5',
         name:'Amazon Speaker Alexa',
         image: '/images/alexa.jpg',
         description: 'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAc audio offrs immersive listenting experence built-in microphone allows you to take calls while working.',
@@ -62,7 +62,7 @@ const products = [
 
     },
     {
-        _id: '6',
+        // _id: '6',
         name:'Playstation',
         image: '/images/playstation.jpg',
         description: 'Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAc audio offrs immersive listenting experence built-in microphone allows you to take calls while working.',
